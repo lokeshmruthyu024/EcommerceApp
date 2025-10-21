@@ -10,7 +10,7 @@ const Home = () => {
           <Sidebar />
         </div>
         <div className="col-md">
-          <div className="row py-4 px-5">
+          <div className="row py-4 px-4">
             <img src={banner} alt="" style={{ width: '892px', height: '344px' }} />
           </div>
         </div>
